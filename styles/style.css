@@ -108,6 +108,11 @@ hr{
     justify-content: space-between;
 }
 
+.course-author{
+    color: #ED6B4F;
+}
+   
+
 .fa-star{
    font-size: 12px;
 }
@@ -119,12 +124,29 @@ hr{
     color: #AEAEAE;
 }
 
+.rating-amount{
+    margin-left: 5px;
+    color: grey;
+}
+
 .course-duration{
-    width: 94px;
-    height: 30px;
+    width: 100px;
+    height: 35px;
     border-radius: 15px;
     background-color: #FFE4E8;
     margin-right: 20px;
+}
+.fa-clock{
+    color: #FF4A60;
+}
+
+.hour{
+    color: #FF4A60;
+}
+
+.fa-clock,.hour{
+    margin-top: 10px;
+    margin-left: 7px;
 }
 
 /*---------------- 
